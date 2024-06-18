@@ -1,0 +1,90 @@
+[
+  {
+    "answerkey": 4,
+    "option 3": "Sanity Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To ensure that the application is error-free and meets the requirements",
+    "option 4": "To reduce the cost of testing",
+    "question": "What is the primary goal of manual testing?",
+    "option 1": "To automate the testing process",
+    "option 2": "To ensure that the application is error-free and meets the requirements"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Integration Testing",
+    "option 4": "Exploratory Testing",
+    "question": "Which of the following is a type of manual testing?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Detailed code review",
+    "option 4": "Continuous Integration setup",
+    "question": "What does a test plan usually include?",
+    "option 1": "Test objectives and scope",
+    "option 2": "Detailed code review"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Test Strategy",
+    "option 4": "Test Summary Report",
+    "question": "Which document defines the test conditions, test cases, and test data?",
+    "option 1": "Test Plan",
+    "option 2": "Test Strategy"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Testing to ensure new code changes have not affected existing functionality",
+    "option 4": "Testing to verify compliance with standards",
+    "question": "What is regression testing?",
+    "option 1": "Testing performed by developers",
+    "option 2": "Testing to ensure new code changes have not affected existing functionality"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Smoke Testing",
+    "option 4": "Alpha Testing",
+    "question": "Which technique is used to ensure that the application functions correctly with different configurations?",
+    "option 1": "Load Testing",
+    "option 2": "Smoke Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "To track the progress of development",
+    "option 4": "To document the project plan",
+    "question": "What is the purpose of a bug report?",
+    "option 1": "To summarize test results",
+    "option 2": "To track the progress of development"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "System Testing",
+    "option 4": "Acceptance Testing",
+    "question": "Which type of testing is performed without planning and documentation?",
+    "option 1": "Unit Testing",
+    "option 2": "System Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "A technique to test the edge cases of input values",
+    "option 4": "A technique to test the limits of user input",
+    "question": "What is boundary value analysis?",
+    "option 1": "A technique to test the boundaries between different sections of the application",
+    "option 2": "A technique to test the edge cases of input values"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To document the expected result of a specific test scenario",
+    "option 4": "To ensure compliance with coding standards",
+    "question": "What is the role of a test case in manual testing?",
+    "option 1": "To automate the testing process",
+    "option 2": "To document the expected result of a specific test scenario"
+  }
+]
